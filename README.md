@@ -107,11 +107,11 @@ The dataset was cleaned and prepared using Python, then analyzed to deliver stra
 
 - [E-commerce Analysis Report](doc/E-commerce Analysis Report.pdf) – Full report and business recommendations
 - [Ecommerce Dashboard](doc/Ecommerce Dashboard.pdf) - Visual Analysis
--[The Revenue Giants Top 20 Best-Earning Products](dataset/The Revenue Giants Top 20 Best-Earning Products.csv)
--[Products Customers Love the Most](dataset/Products Customers Love the Most.csv)
--[Products with the most returns](dataset/Products with the most returns.csv)
--[Products with Low Sales and Revenue](dataset/Products with Low Sales and Revenue.csv)
--[Top Spending Champions](dataset/Top Spending Champions.csv)
+- [The Revenue Giants Top 20 Best-Earning Products](dataset/The Revenue Giants Top 20 Best-Earning Products.csv)
+- [Products Customers Love the Most](dataset/Products Customers Love the Most.csv)
+- [Products with the most returns](dataset/Products with the most returns.csv)
+- [Products with Low Sales and Revenue](dataset/Products with Low Sales and Revenue.csv)
+- [Top Spending Champions](dataset/Top Spending Champions.csv)
 - [RFM_analysis dataset](dataset/RFM_analysis.csv) – RFM segmentation breakdown 
 - [Cleaned_ecommerce_project](dataset/Cleaned_ecommerce_project.zip) – Cleaned dataset
 - [Ecommerce raw dataset](dataset/Ecommerce raw dataset.zip) - Raw dataset
